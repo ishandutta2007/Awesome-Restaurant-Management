@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <!-- Vibrant Accents -->
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff7e5f" />
+      <stop offset="50%" stop-color="#feb47b" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="50%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+
+    <linearGradient id="neonGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#f59e0b" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.6" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e" />
+      <stop offset="33%" stop-color="#f59e0b" />
+      <stop offset="66%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.35; transform: scale(1); }
+      50% { opacity: 0.65; transform: scale(1.08); }
+    }
+    @keyframes floatSlow {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-8px) rotate(1.5deg); }
+    }
+    @keyframes floatReverse {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(8px) rotate(-1.5deg); }
+    }
+    @keyframes dashCycle {
+      0% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: 800; }
+    }
+    @keyframes shimmerText {
+      0%, 100% { fill: url(#primaryGrad); filter: drop-shadow(0 0 10px rgba(255, 126, 95, 0.4)); }
+      50% { fill: url(#primaryGrad); filter: drop-shadow(0 0 20px rgba(245, 158, 11, 0.7)); }
+    }
+    .pulsing-orb-1 {
+      transform-origin: 220px 140px;
+      animation: pulseGlow 6s ease-in-out infinite;
+    }
+    .pulsing-orb-2 {
+      transform-origin: 980px 270px;
+      animation: pulseGlow 7s ease-in-out infinite reverse;
+    }
+    .floating-card-1 {
+      animation: floatSlow 5s ease-in-out infinite;
+    }
+    .floating-card-2 {
+      animation: floatReverse 6s ease-in-out infinite;
+    }
+    .border-dash {
+      stroke-dasharray: 20 15;
+      animation: dashCycle 30s linear infinite;
+    }
+    .title-shimmer {
+      animation: shimmerText 4s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="420" rx="24" fill="url(#bgGrad)" />
+
+  <!-- Background Ambient Glow Orbs -->
+  <circle cx="220" cy="140" r="180" fill="url(#neonGlow)" class="pulsing-orb-1" opacity="0.3" filter="url(#softGlow)" />
+  <circle cx="980" cy="270" r="160" fill="url(#accentGrad)" class="pulsing-orb-2" opacity="0.25" filter="url(#softGlow)" />
+
+  <!-- Tech Grid Overlay -->
+  <g opacity="0.08" stroke="#ffffff" stroke-width="1">
+    <line x1="100" y1="0" x2="100" y2="420" />
+    <line x1="250" y1="0" x2="250" y2="420" />
+    <line x1="400" y1="0" x2="400" y2="420" />
+    <line x1="550" y1="0" x2="550" y2="420" />
+    <line x1="700" y1="0" x2="700" y2="420" />
+    <line x1="850" y1="0" x2="850" y2="420" />
+    <line x1="1000" y1="0" x2="1000" y2="420" />
+    <line x1="0" y1="70" x2="1200" y2="70" />
+    <line x1="0" y1="140" x2="1200" y2="140" />
+    <line x1="0" y1="210" x2="1200" y2="210" />
+    <line x1="0" y1="280" x2="1200" y2="280" />
+    <line x1="0" y1="350" x2="1200" y2="350" />
+  </g>
+
+  <!-- Animated Neon Border -->
+  <rect x="12" y="12" width="1176" height="396" rx="20" fill="none" stroke="url(#borderGrad)" stroke-width="2.5" class="border-dash" />
+
+  <!-- Floating Decorative Cards & Tech Elements -->
+  <!-- Left Side: POS Terminal & Dish Card -->
+  <g class="floating-card-1" transform="translate(70, 95)">
+    <rect width="180" height="210" rx="16" fill="#1e293b" fill-opacity="0.65" stroke="#334155" stroke-width="1.5" />
+    <!-- Cloche / Table Service Icon -->
+    <path d="M 90 40 A 45 45 0 0 1 135 85 L 45 85 A 45 45 0 0 1 90 40 Z" fill="url(#primaryGrad)" />
+    <ellipse cx="90" cy="88" rx="48" ry="4" fill="#f59e0b" opacity="0.8" />
+    <circle cx="90" cy="35" r="5" fill="#feb47b" />
+    <!-- Mini POS Screen & Buttons -->
+    <rect x="35" y="110" width="110" height="40" rx="6" fill="#0f172a" stroke="#06b6d4" stroke-width="1" />
+    <rect x="45" y="120" width="50" height="6" rx="3" fill="#10b981" />
+    <rect x="45" y="132" width="70" height="6" rx="3" fill="#38bdf8" />
+    <circle cx="130" cy="130" r="6" fill="#f43f5e" />
+    <!-- Stats Row -->
+    <text x="90" y="180" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">TABLE 04 • READY</text>
+    <rect x="45" y="192" width="90" height="3" rx="1.5" fill="#10b981" />
+  </g>
+
+  <!-- Right Side: Analytics & Kitchen Orders Card -->
+  <g class="floating-card-2" transform="translate(950, 95)">
+    <rect width="180" height="210" rx="16" fill="#1e293b" fill-opacity="0.65" stroke="#334155" stroke-width="1.5" />
+    <!-- Kitchen Order Badge -->
+    <rect x="25" y="25" width="130" height="26" rx="13" fill="#10b981" fill-opacity="0.2" stroke="#10b981" stroke-width="1" />
+    <text x="90" y="42" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" text-anchor="middle">⚡ LIVE KDS STREAM</text>
+    <!-- Bar Chart -->
+    <g transform="translate(35, 75)">
+      <rect x="0" y="55" width="18" height="40" rx="4" fill="#3b82f6" />
+      <rect x="26" y="30" width="18" height="65" rx="4" fill="#06b6d4" />
+      <rect x="52" y="15" width="18" height="80" rx="4" fill="#10b981" />
+      <rect x="78" y="0" width="18" height="95" rx="4" fill="url(#primaryGrad)" />
+      <line x1="0" y1="100" x2="105" y2="100" stroke="#475569" stroke-width="1" />
+    </g>
+    <text x="90" y="195" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Avg Rev/Seat +28%</text>
+  </g>
+
+  <!-- Center Core Content -->
+  <g transform="translate(600, 140)" text-anchor="middle">
+    <!-- Top Pill Tag -->
+    <g transform="translate(0, -55)">
+      <rect x="-185" y="-14" width="370" height="30" rx="15" fill="#1e293b" stroke="url(#borderGrad)" stroke-width="1.2" />
+      <text x="0" y="6" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="2">🍽️ THE RESTAURANT TECH ECOSYSTEM</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="0" y="45" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="900" letter-spacing="-0.5" class="title-shimmer">
+      AWESOME RESTAURANT MANAGEMENT
+    </text>
+
+    <!-- Subtitle -->
+    <text x="0" y="85" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="500" letter-spacing="0.2">
+      Curated Guide to Enterprise SaaS Platforms &amp; Open-Source POS Solutions
+    </text>
+
+    <!-- Feature Tag Badges -->
+    <g transform="translate(0, 130)">
+      <g transform="translate(-260, 0)">
+        <rect x="-45" y="-14" width="90" height="28" rx="14" fill="#0f172a" stroke="#f43f5e" stroke-width="1" />
+        <text x="0" y="4" fill="#fb7185" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="700">🧾 Cloud POS</text>
+      </g>
+      <g transform="translate(-130, 0)">
+        <rect x="-55" y="-14" width="110" height="28" rx="14" fill="#0f172a" stroke="#f59e0b" stroke-width="1" />
+        <text x="0" y="4" fill="#fbbf24" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="700">📦 Food Costing</text>
+      </g>
+      <g transform="translate(10, 0)">
+        <rect x="-55" y="-14" width="110" height="28" rx="14" fill="#0f172a" stroke="#10b981" stroke-width="1" />
+        <text x="0" y="4" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="700">📅 Reservations</text>
+      </g>
+      <g transform="translate(145, 0)">
+        <rect x="-50" y="-14" width="100" height="28" rx="14" fill="#0f172a" stroke="#06b6d4" stroke-width="1" />
+        <text x="0" y="4" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="700">⚡ Kitchen KDS</text>
+      </g>
+      <g transform="translate(265, 0)">
+        <rect x="-45" y="-14" width="90" height="28" rx="14" fill="#0f172a" stroke="#a855f7" stroke-width="1" />
+        <text x="0" y="4" fill="#c084fc" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="700">📊 Analytics</text>
+      </g>
+    </g>
+  </g>
+</svg>

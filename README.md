@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS Products](#saas-products)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -38,113 +38,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-- **[Toast](https://pos.toasttab.com/)**  
-
-  Leading restaurant-native POS and operations platform with strong kitchen, ordering, offline, and multi-location capabilities.
-
-
-
-- **[Square for Restaurants](https://squareup.com/us/en/point-of-sale/restaurants)**  
-
-  Accessible restaurant POS with free tier options, hardware flexibility, and integrated payments — popular with smaller operators.
-
-
-
-- **[TouchBistro](https://www.touchbistro.com/)**  
-
-  Restaurant POS focused on table service, menu management, and operational tools for independent and multi-unit restaurants.
-
-
-
-- **[Lightspeed Restaurant](https://www.lightspeedhq.com/pos/restaurant/)**  
-
-  Customizable restaurant POS with solid reporting, inventory, and multi-location support.
-
-
-
-- **[Resy](https://resy.com/)**  
-
-  Premium reservations and guest experience platform favored by upscale and high-demand restaurants.
-
-
-
-- **[OpenTable](https://www.opentable.com/)**  
-
-  Widely used restaurant reservation and discovery platform with guest management and marketing tools.
-
-
-
-- **[7shifts](https://www.7shifts.com/)**  
-
-  Restaurant-specific workforce management platform for scheduling, labor cost control, and team communication.
-
-
-
-- **[Restaurant365](https://www.restaurant365.com/)**  
-
-  Back-office platform focused on accounting, inventory, food cost, and restaurant financial operations.
-
-
-
-- **[MarginEdge](https://www.marginedge.com/)**  
-
-  Restaurant inventory, recipe, and invoice automation platform aimed at controlling food costs.
-
-
-
-- **[SpotOn](https://www.spoton.com/)**  
-
-  Restaurant POS and management platform with integrated payments and operational tools.
-
-
-
-- **[Clover](https://www.clover.com/)**  
-
-  Flexible POS hardware and software platform used by many restaurants alongside other operations tools.
-
-
-
-- **[Oracle Simphony](https://www.oracle.com/food-beverage/restaurant-pos-systems/simphony/)**  
-
-  Enterprise restaurant POS and management suite for large multi-unit and complex operations.
-
-
-
-- **[Revel Systems](https://revelsystems.com/)**  
-
-  iPad-based POS platform used in restaurants and other hospitality settings.
-
-
-
-- **[CrunchTime](https://www.crunchtime.com/)**  
-
-  Restaurant operations platform focused on inventory, food cost, labor, and enterprise reporting.
-
-
-
-- **[MarketMan](https://www.marketman.com/)**  
-
-  Inventory and purchasing management platform for restaurants and foodservice operators.
-
-
-
-- **[Deliverect](https://www.deliverect.com/)**  
-
-  Online ordering and delivery integration platform that connects restaurants to multiple delivery channels.
-
-
-
-- **[Yellow Dog Inventory](https://www.yellowdogsoftware.com/)**  
-
-  Inventory management system used in restaurants, hotels, and multi-outlet foodservice.
-
-
-
-- **[BlueCart](https://www.bluecart.com/)**  
-
-  Ordering and supply-chain platform connecting restaurants with suppliers.
+## SaaS Products
+
+| Platform / Product | Description | Pricing (Starting Tier) | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Toast](https://pos.toasttab.com/)** | Restaurant-native POS with handheld terminals, kitchen display systems (KDS), online ordering, and offline card processing. | **$0/month** (Quick Start plan) or **$69/month** (Standard Point of Sale plan) | **Free-forever Starter Plan** ($0/mo software fee for 1–2 terminals, 1 location; ~3.09% + $0.15 per transaction); 30-day free trial on select add-on modules. |
+| **[Square for Restaurants](https://squareup.com/us/en/point-of-sale/restaurants)** | Accessible cloud POS with table layout mapping, menu management, Square Online integration, and payment processing. | **$0/month** (Free Plan) or **$60/month** (Plus Plan per location) | **Free-forever plan** ($0/mo software fee, unlimited orders, 1 location, basic POS features; 2.6% + $0.10 in-person processing); **30-day free trial** for Plus plan (full KDS and advanced floor management). |
+| **[TouchBistro](https://www.touchbistro.com/)** | iPad-based POS and restaurant management system tailored for table service, floor plan management, and menu costing. | **$69/month** (Solo plan for 1 terminal license, billed annually; Dual plan at $129/mo) | **28-day free trial** via the iPad App Store (7 days unregistered + 21 days upon account registration; full menu setup and local POS mode); guided live demo. |
+| **[Lightspeed Restaurant](https://www.lightspeedhq.com/pos/restaurant/)** | Advanced restaurant POS with built-in inventory, recipe management, multi-location reporting, and open API integrations. | **$69/month** (Basic plan, billed annually with 1 terminal; $79/mo billed monthly) | **14-day free trial** for cloud POS back-office and select digital ordering add-ons (Order Anywhere); full access to sample store data and menu management. |
+| **[Resy](https://resy.com/)** | Premium reservation, waitlist, and table management platform featuring guest CRM and direct diner booking network. | **$289/month** (Platform / Essential plan; Platform 360 at $399/mo) | **No free forever plan**; offers a **complimentary 1-on-1 live product demo & sandbox simulation** (100% free for end-user diners to book and join Notify waitlists). |
+| **[OpenTable](https://www.opentable.com/)** | Global restaurant reservation and diner discovery network with table management, shift planning, and guest relationship tools. | **$149/month** (Basic plan, plus $1.50/network cover & $0.25/direct cover; Core at $299/mo) | **30-day free trial** on the Basic plan (waives the $149/mo software subscription fee for 30 days; network per-cover fees of $1.50/diner still apply). |
+| **[7shifts](https://www.7shifts.com/)** | Restaurant-specific workforce management software for employee shift scheduling, labor compliance, and team communication. | **$0/month** (Comp plan) or **$39.99/location/month** (Essentials plan billed annually, $44.99/mo billed monthly) | **Free-forever "Comp" plan** for 1 single location and up to 15 employees (basic scheduling and team chat, excludes time clock and POS sync); **14-day free trial** of the Pro plan (no credit card required). |
+| **[Restaurant365](https://www.restaurant365.com/)** | Integrated back-office suite uniting restaurant accounting, food cost inventory, purchasing, scheduling, and payroll. | **$249/location/month** (Accounting Core or Ops/Inventory Core tier; Essential suite at ~$499/location/mo) | **No free forever plan**; offers a **complimentary scheduled 1-on-1 live software demo & back-office workflow analysis** with an operations consultant. |
+| **[MarginEdge](https://www.marginedge.com/)** | Restaurant invoice automation, daily food cost tracking, recipe costing, and real-time inventory management platform. | **$330/location/month** (Base platform, billed monthly; $500/location/mo bundled with Freepour) | **No free forever plan**; offers a **complimentary live interactive demo and invoice scanning trial run** with an operations specialist. |
+| **[SpotOn](https://www.spoton.com/)** | Restaurant POS and payments platform with handheld ordering, kitchen display systems, and commission-free online ordering. | **$0/month** (Quick Start plan) or **$99/month** (Counter Service) / **$135/month** (Full Service) | **Free-forever "Quick Start" plan** ($0/month software subscription fee for 1 terminal with transaction-based processing rates); personalized live system demo. |
+| **[Clover](https://www.clover.com/)** | Modular POS hardware and software ecosystem handling order taking, table service, payments, and app marketplace extensions. | **$14.95/month** (Payments Plus software) or **$44.95–$59.95/month** (Counter Service) / **$89.95/month** (Table Service) | **90-day free trial** on eligible software plans (e.g., Counter Service / Services Growth without hardware purchase, 1 per Tax ID; transaction fees apply). |
+| **[Oracle Simphony](https://www.oracle.com/food-beverage/restaurant-pos-systems/simphony/)** | Enterprise-grade cloud POS and kitchen management system built for hotel chains, multi-unit restaurant groups, and stadiums. | **$55/workstation/month** (Simphony Essentials tier; Simphony Plus at $75/workstation/mo) | **No free forever plan**; offers a **complimentary guided proof-of-concept sandbox demo** with an Oracle F&B solution architect. |
+| **[Revel Systems](https://revelsystems.com/)** | Cloud iPad POS architecture providing floor plan management, KDS, inventory tracking, and open API connectivity. | **$99/terminal/month** (billed annually, 2-terminal minimum, requires 3-year contract & Revel Advantage processing) | **No free forever plan**; offers a **customized live virtual sandbox demonstration** with a Revel solution consultant. |
+| **[CrunchTime](https://www.crunchtime.com/)** | Enterprise multi-unit operations platform for food cost tracking, actual vs. theoretical (AvT) analysis, and labor optimization. | **$40/location/month** (Ops Execution starting tier; enterprise inventory and labor suite typically ranges $100–$250/location/mo) | **No free forever plan**; offers a **complimentary 1-on-1 virtual product tour and enterprise food-cost audit** with a solutions specialist. |
+| **[MarketMan](https://www.marketman.com/)** | Cloud inventory and purchasing platform featuring automated AP invoice extraction, vendor ordering, and recipe costing. | **$199/month** (Starter tier billed annually at $179/mo; Growth tier at $249/mo) | **No free forever plan**; offers a **complimentary 1-on-1 interactive live demo and inventory workflow consultation** with an F&B specialist. |
+| **[Deliverect](https://www.deliverect.com/)** | Delivery order aggregation and POS integration hub that connects third-party delivery channels with restaurant kitchen workflows. | **$89/month** (Starter tier for up to 350 online orders/month; or €69/mo in EU, scaling by volume) | **No free forever plan**; offers a **complimentary 1-on-1 live onboarding demo and channel integration review** with an integration engineer. |
+| **[Yellow Dog Inventory](https://www.yellowdogsoftware.com/)** | Robust F&B inventory and recipe management solution with barcode audits and deep integration across 400+ POS systems. | **$129/location/month** (Standard entry tier via Square/Clover marketplace; multi-unit tiers up to $269/location/mo) | **No free forever plan**; provides a **complimentary live system walk-through and custom architecture consultation** with an implementation engineer. |
+| **[BlueCart](https://www.bluecart.com/)** | Wholesale procurement and mobile ordering platform bridging commercial restaurant kitchens with food and beverage distributors. | **$0/month** (for restaurant buyers); **$10/month** (Vendor/Supplier Starter tier, scaling to $49+/mo) | **Free-forever plan for restaurant buyers** ($0/month subscription with unlimited order placement to wholesale suppliers, order check-in, and mobile ordering tools); **14-day free trial** for suppliers on vendor storefront tiers. |
+| **[Eat App](https://restaurant.eatapp.co/)** | Cloud reservation and table management system offering commission-free direct booking, CRM profiles, and guest messaging. | **$0/month** (Free Plan) or **$49/month** (Starter tier; Pro tier at $129/mo) | **Free-forever plan** ($0/month, limited to 30 covers/month with basic online widget and table management); **14-day free trial** of the Pro plan with unlimited covers (no credit card required). |
+| **[Tenzo](https://www.gotenzo.com/)** | AI-powered restaurant business intelligence and forecasting platform consolidating POS, labor, and inventory telemetry into actionable dashboards. | **$75/location/month** (Starter analytics tier; comprehensive forecasting suite typically $100–$150/location/mo) | **No free forever plan**; offers a **complimentary live interactive demo and tailored data-stack audit** with a hospitality data specialist. |
+
+*Note on acquired platforms: Upserve was acquired by Lightspeed and integrated into Lightspeed Restaurant; Compeat was acquired by Restaurant365 and integrated into the Restaurant365 platform.*
 
 
 

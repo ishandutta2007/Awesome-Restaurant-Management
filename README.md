@@ -79,63 +79,63 @@ This repository tracks the leading **commercial SaaS platforms** and vetted **op
 ## 💻 Open-Source GitHub Projects
 
 ### ⭐ Ranked Open-Source Solutions
-*Repositories sorted in descending order by GitHub Star count. Star badges dynamically reflect live repository metrics and link directly to stargazers.*
+*Repositories sorted in descending order by GitHub Star count. Stars_Badges dynamically reflect live repository metrics and link directly to stargazers.*
 
-- **[Odoo Restaurant / POS](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+- **[Odoo Restaurant / POS](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Comprehensive open-source ERP platform featuring a dedicated Restaurant Point-of-Sale, graphical table floor planning, bill splitting, kitchen printer routing, and inventory sync.
 
-- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   Leading enterprise FOSS resource planning system built on the Frappe framework with native Restaurant, Point of Sale, hospitality billing, recipe management, and supply chain modules.
 
-- **[NexoPOS](https://github.com/Blair2004/NexoPOS)** [![GitHub stars](https://img.shields.io/github/stars/Blair2004/NexoPOS?style=social&color=white)](https://github.com/Blair2004/NexoPOS/stargazers)  
+- **[NexoPOS](https://github.com/Blair2004/NexoPOS)** [![GitHub_Stars](https://img.shields.io/github/stars/Blair2004/NexoPOS?style=social&color=white)](https://github.com/Blair2004/NexoPOS/stargazers)  
   Modern Laravel, Vue.js, and Tailwind CSS point-of-sale system featuring multi-store management, stock procurement, automated order receipts, and modular extensions.
 
-- **[Triangle POS](https://github.com/FahimAnzamDip/triangle-pos)** [![GitHub stars](https://img.shields.io/github/stars/FahimAnzamDip/triangle-pos?style=social&color=white)](https://github.com/FahimAnzamDip/triangle-pos/stargazers)  
+- **[Triangle POS](https://github.com/FahimAnzamDip/triangle-pos)** [![GitHub_Stars](https://img.shields.io/github/stars/FahimAnzamDip/triangle-pos?style=social&color=white)](https://github.com/FahimAnzamDip/triangle-pos/stargazers)  
   Open-source inventory management and Point of Sale system developed with Laravel, Bootstrap, and Livewire for streamlined front-of-house billing and stock tracking.
 
-- **[Flutter POS System](https://github.com/evan361425/flutter-pos-system)** [![GitHub stars](https://img.shields.io/github/stars/evan361425/flutter-pos-system?style=social&color=white)](https://github.com/evan361425/flutter-pos-system/stargazers)  
+- **[Flutter POS System](https://github.com/evan361425/flutter-pos-system)** [![GitHub_Stars](https://img.shields.io/github/stars/evan361425/flutter-pos-system?style=social&color=white)](https://github.com/evan361425/flutter-pos-system/stargazers)  
   Cross-platform mobile and desktop POS application built with Flutter, designed for small cafes, diners, and independent food establishments.
 
-- **[SambaPOS 3](https://github.com/emreeren/SambaPOS-3)** [![GitHub stars](https://img.shields.io/github/stars/emreeren/SambaPOS-3?style=social&color=white)](https://github.com/emreeren/SambaPOS-3/stargazers)  
+- **[SambaPOS 3](https://github.com/emreeren/SambaPOS-3)** [![GitHub_Stars](https://img.shields.io/github/stars/emreeren/SambaPOS-3?style=social&color=white)](https://github.com/emreeren/SambaPOS-3/stargazers)  
   Classic open-source touchscreen POS software engineered specifically for restaurant table service, ticket splitting, and kitchen printer routing.
 
-- **[WallacePOS](https://github.com/micwallace/wallacepos)** [![GitHub stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers)  
+- **[WallacePOS](https://github.com/micwallace/wallacepos)** [![GitHub_Stars](https://img.shields.io/github/stars/micwallace/wallacepos?style=social&color=white)](https://github.com/micwallace/wallacepos/stargazers)  
   Web-based, extensible POS application utilizing standard modern web technologies for easy deployment in retail and food service environments.
 
-- **[URY – Restaurant Management ERP](https://github.com/ury-erp/ury)** [![GitHub stars](https://img.shields.io/github/stars/ury-erp/ury?style=social&color=white)](https://github.com/ury-erp/ury/stargazers)  
+- **[URY – Restaurant Management ERP](https://github.com/ury-erp/ury)** [![GitHub_Stars](https://img.shields.io/github/stars/ury-erp/ury?style=social&color=white)](https://github.com/ury-erp/ury/stargazers)  
   Complete FOSS restaurant management suite built atop ERPNext, delivering end-to-end POS, kitchen display system (KDS), table reservations, order tracking, and financial analytics.
 
-- **[Restaurant Management System (Android)](https://github.com/harismuneer/Restaurant-Management-System)** [![GitHub stars](https://img.shields.io/github/stars/harismuneer/Restaurant-Management-System?style=social&color=white)](https://github.com/harismuneer/Restaurant-Management-System/stargazers)  
+- **[Restaurant Management System (Android)](https://github.com/harismuneer/Restaurant-Management-System)** [![GitHub_Stars](https://img.shields.io/github/stars/harismuneer/Restaurant-Management-System?style=social&color=white)](https://github.com/harismuneer/Restaurant-Management-System/stargazers)  
   Android-based RMS digitalizing daily restaurant operations including tableside mobile ordering, billing, kitchen queues, and hall inventory.
 
-- **[Food Ordering System](https://github.com/haxxorsid/food-ordering-system)** [![GitHub stars](https://img.shields.io/github/stars/haxxorsid/food-ordering-system?style=social&color=white)](https://github.com/haxxorsid/food-ordering-system/stargazers)  
+- **[Food Ordering System](https://github.com/haxxorsid/food-ordering-system)** [![GitHub_Stars](https://img.shields.io/github/stars/haxxorsid/food-ordering-system?style=social&color=white)](https://github.com/haxxorsid/food-ordering-system/stargazers)  
   Full-stack food and item ordering architecture handling customer orders, kitchen status dispatch, and menu catalogs.
 
-- **[Restaurant POS System (MERN)](https://github.com/amritmaurya1504/Restaurant_POS_System)** [![GitHub stars](https://img.shields.io/github/stars/amritmaurya1504/Restaurant_POS_System?style=social&color=white)](https://github.com/amritmaurya1504/Restaurant_POS_System/stargazers)  
+- **[Restaurant POS System (MERN)](https://github.com/amritmaurya1504/Restaurant_POS_System)** [![GitHub_Stars](https://img.shields.io/github/stars/amritmaurya1504/Restaurant_POS_System?style=social&color=white)](https://github.com/amritmaurya1504/Restaurant_POS_System/stargazers)  
   Production-oriented restaurant POS stack built with MongoDB, Express, React, and Node.js for real-time table order dispatch, payment tracking, and inventory control.
 
-- **[RestaurantProject POS](https://github.com/BryanTheLai/RestaurantProject)** [![GitHub stars](https://img.shields.io/github/stars/BryanTheLai/RestaurantProject/stargazers)  
+- **[RestaurantProject POS](https://github.com/BryanTheLai/RestaurantProject)** [![GitHub_Stars](https://img.shields.io/github/stars/BryanTheLai/RestaurantProject/stargazers)  
   Integrated restaurant management web application combining a customer-facing menu portal with an operational POS for table ordering and bill generation.
 
-- **[QR Smart Restaurant (NestJS + React)](https://github.com/olasunkanmi-SE/restaurant)** [![GitHub stars](https://img.shields.io/github/stars/olasunkanmi-SE/restaurant?style=social&color=white)](https://github.com/olasunkanmi-SE/restaurant/stargazers)  
+- **[QR Smart Restaurant (NestJS + React)](https://github.com/olasunkanmi-SE/restaurant)** [![GitHub_Stars](https://img.shields.io/github/stars/olasunkanmi-SE/restaurant?style=social&color=white)](https://github.com/olasunkanmi-SE/restaurant/stargazers)  
   Smartphone-enabled dining app empowering patrons to view digital menus and submit orders directly to kitchen queues via QR code scanning.
 
-- **[ERPNext Restaurant App](https://github.com/alphabit-technology/erpnext-restaurant)** [![GitHub stars](https://img.shields.io/github/stars/alphabit-technology/erpnext-restaurant?style=social&color=white)](https://github.com/alphabit-technology/erpnext-restaurant/stargazers)  
+- **[ERPNext Restaurant App](https://github.com/alphabit-technology/erpnext-restaurant)** [![GitHub_Stars](https://img.shields.io/github/stars/alphabit-technology/erpnext-restaurant?style=social&color=white)](https://github.com/alphabit-technology/erpnext-restaurant/stargazers)  
   Specialized restaurant extension module for ERPNext, tailoring table billing, waiter assignments, and kitchen order tickets (KOT).
 
-- **[CS10 Restaurant POS](https://github.com/BloomTech-Labs/CS10-restaurant-pos)** [![GitHub stars](https://img.shields.io/github/stars/BloomTech-Labs/CS10-restaurant-pos?style=social&color=white)](https://github.com/BloomTech-Labs/CS10-restaurant-pos/stargazers)  
+- **[CS10 Restaurant POS](https://github.com/BloomTech-Labs/CS10-restaurant-pos)** [![GitHub_Stars](https://img.shields.io/github/stars/BloomTech-Labs/CS10-restaurant-pos?style=social&color=white)](https://github.com/BloomTech-Labs/CS10-restaurant-pos/stargazers)  
   Open-source Point of Sale system built on Node, Express, React, and MongoDB supporting floor map layouts and server shift tracking.
 
-- **[Ordering Management System](https://github.com/phojie/ordering-management-system)** [![GitHub stars](https://img.shields.io/github/stars/phojie/ordering-management-system?style=social&color=white)](https://github.com/phojie/ordering-management-system/stargazers)  
+- **[Ordering Management System](https://github.com/phojie/ordering-management-system)** [![GitHub_Stars](https://img.shields.io/github/stars/phojie/ordering-management-system?style=social&color=white)](https://github.com/phojie/ordering-management-system/stargazers)  
   Streamlined restaurant order routing and dispatch platform designed for small-to-medium food service operations.
 
-- **[Laravel Restaurant POS](https://github.com/dipenparmar12/POS)** [![GitHub stars](https://img.shields.io/github/stars/dipenparmar12/POS?style=social&color=white)](https://github.com/dipenparmar12/POS/stargazers)  
+- **[Laravel Restaurant POS](https://github.com/dipenparmar12/POS)** [![GitHub_Stars](https://img.shields.io/github/stars/dipenparmar12/POS?style=social&color=white)](https://github.com/dipenparmar12/POS/stargazers)  
   Quick and easy browser-based POS tailored for dine-in restaurants, bakeries, and cafes across desktop, tablet, and mobile displays.
 
-- **[Laravel POS](https://github.com/G4brym/Laravel-Restaurant-POS)** [![GitHub stars](https://img.shields.io/github/stars/G4brym/Laravel-Restaurant-POS?style=social&color=white)](https://github.com/G4brym/Laravel-Restaurant-POS/stargazers)  
+- **[Laravel POS](https://github.com/G4brym/Laravel-Restaurant-POS)** [![GitHub_Stars](https://img.shields.io/github/stars/G4brym/Laravel-Restaurant-POS?style=social&color=white)](https://github.com/G4brym/Laravel-Restaurant-POS/stargazers)  
   Lightweight Laravel-powered restaurant Point of Sale system with table billing and menu management.
 
-- **[Restaurant POS & KDS (React + SurrealDB)](https://github.com/ahmedali5530/restaurant-pos)** [![GitHub stars](https://img.shields.io/github/stars/ahmedali5530/restaurant-pos?style=social&color=white)](https://github.com/ahmedali5530/restaurant-pos/stargazers)  
+- **[Restaurant POS & KDS (React + SurrealDB)](https://github.com/ahmedali5530/restaurant-pos)** [![GitHub_Stars](https://img.shields.io/github/stars/ahmedali5530/restaurant-pos?style=social&color=white)](https://github.com/ahmedali5530/restaurant-pos/stargazers)  
   Unified real-time restaurant POS built with React and SurrealDB for cafes, food trucks, and chains, integrating ordering, kitchen display, delivery, and inventory.
 
 ---
@@ -155,7 +155,7 @@ For independent operators and software engineers evaluating an open-source or hy
 3. 📝 Add or update entries in `README.md`:
    - Keep descriptions factual, concise, and linked to official sites.
    - For SaaS products, include company size (valuation/revenue), specific starting pricing, and exact free tier/trial limits in the comparison table.
-   - For open-source repos, include the social star badge linking to its `/stargazers` page.
+   - For open-source repos, include the social Stars_Badge linking to its `/stargazers` page.
 4. 🚀 Submit a Pull Request with a clear description of the addition.
 
 ⭐ **Star the repo** on [GitHub](https://github.com/ishandutta2007/Awesome-Restaurant-Management) if you find it helpful!
@@ -176,4 +176,4 @@ For independent operators and software engineers evaluating an open-source or hy
 
 <p align="center">
   <sub>Curated with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and community contributors.</sub>
-</p>
+</p>

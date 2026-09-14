@@ -139,7 +139,7 @@ This repository tracks the leading **commercial SaaS platforms** and vetted **op
   Unified real-time restaurant POS built with React and SurrealDB for cafes, food trucks, and chains, integrating ordering, kitchen display, delivery, and inventory.
 
 - **[Posnic](https://github.com/Posnic/POS)** [![GitHub_Stars](https://img.shields.io/github/stars/Posnic/POS?style=social&color=white)](https://github.com/Posnic/POS/stargazers)  
-  Offline-first open-source POS and billing software for restaurants and retail shops, with local checkout, kitchen order tickets, inventory, purchasing, receipts, and optional online/offline workflows. [Official website](https://www.posnic.com/).
+  Offline-first open-source POS and billing software for restaurants and retail shops, with local checkout, kitchen order tickets, inventory, purchasing, receipts, and optional online/offline workflows.
 
 ---
 
